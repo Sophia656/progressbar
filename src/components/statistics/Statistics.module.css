@@ -1,0 +1,17 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 80vw;
+    margin-top: 15px;
+}
+.elem {
+    display: flex;
+    align-items: center;
+}
+.elem_curcle {
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    margin-right: 5px;
+}
